@@ -1,41 +1,58 @@
-🌿 Tela de Login – HTML, CSS e JavaScript
+<div align="center">
 
-Uma interface moderna e minimalista de tela de login desenvolvida com HTML, CSS e JavaScript.
-O layout utiliza um fundo com imagem de folhas verdes, trazendo frescor e leveza ao design, enquanto o formulário central mantém um estilo clean e responsivo.
+# 🌿 Tela de Login – HTML, CSS e JavaScript
 
-✨ Funcionalidades
-✔️ Tela de login estilizada
+Interface moderna, minimalista e responsiva, com fundo de folhas verdes e um formulário central estilizado.
 
-✔️ Fundo com imagem de folhas verdes
+</div>
 
-✔️ Formulário centralizado
+---
 
-✔️ Efeitos de hover e foco
+## ✨ Funcionalidades
 
-✔️ Validação simples com JavaScript
+| Função | Descrição |
+|-------|-----------|
+| ✔️ **Tela de login estilizada** | Design moderno e clean |
+| ✔️ **Fundo com imagem de folhas** | Estética leve e natural |
+| ✔️ **Formulário centralizado** | Layout organizado e responsivo |
+| ✔️ **Efeitos de hover e foco** | Interatividade suave |
+| ✔️ **Validação simples em JavaScript** | Verificação de campos |
+| ✔️ **Responsividade garantida** | Funciona em telas menores |
 
-✔️ Layout responsivo para telas menores
+---
 
-🛠️ Tecnologias Utilizadas
-HTML5 – estrutura e semântica da página
+## 🛠️ Tecnologias Utilizadas
 
-CSS3 – estilização, posicionamento e responsividade
+HTML5 – Estrutura e semântica
+CSS3 – Estilização, layout e responsividade
+JavaScript – Validação e interações
 
-JavaScript – validação dos campos e efeitos interativos
+yaml
+Copiar código
 
-🔧 Personalização
+---
+
+## 🔧 Personalização
+
 Você pode alterar facilmente:
 
-a imagem de fundo (em style.css)
+- 🖼️ **Imagem de fundo** (em `style.css`)  
+- 🎨 **Cores, sombras e tipografia**  
+- 🔍 **Lógica de validação** (em `script.js`)  
 
-cores, sombras e tipografia
+---
 
-lógica de validação no script.js
+## 🌐 Minhas Redes Sociais
 
+Sinta-se à vontade para acompanhar meu trabalho ou entrar em contato:
 
-🌐 Minhas Redes Sociais
-Sinta-se à vontade para me acompanhar ou entrar em contato:
+- 📸 **Instagram:** https://www.instagram.com/anatecch  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/anagfeitosa  
 
-📸 Instagram: https://www.instagram.com/anatecch
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/anagfeitosa
+<div align="center">
+
+Feito por Ana Tech
+
+</div>
