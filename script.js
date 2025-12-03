@@ -10,7 +10,6 @@ document.addEventListener('DOMContentLoaded', function() {
         // URL para redirecionar
         const instagramProfileURL = 'https://www.instagram.com/anatecch'; // Substitua pelo sua URL
 
-        // Abre o link em uma nova aba ou janela
         window.open(instagramProfileURL, '_blank');
     });
 });
