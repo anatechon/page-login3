@@ -24,7 +24,9 @@ Interface moderna, minimalista e responsiva, com fundo de folhas verdes e um for
 ## 🛠️ Tecnologias Utilizadas
 
 HTML5 – Estrutura e semântica
+
 CSS3 – Estilização, layout e responsividade
+
 JavaScript – Validação e interações
 
 ---
