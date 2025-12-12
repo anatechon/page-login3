@@ -27,9 +27,6 @@ HTML5 – Estrutura e semântica
 CSS3 – Estilização, layout e responsividade
 JavaScript – Validação e interações
 
-yaml
-Copiar código
-
 ---
 
 ## 🔧 Personalização
